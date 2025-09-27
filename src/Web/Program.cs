@@ -1,4 +1,5 @@
-﻿using System.Net.Mime;
+// This is my first change in Program.cs file
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
 using BlazorAdmin;
